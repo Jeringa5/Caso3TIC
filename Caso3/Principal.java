@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Principal {
     public static void main(String[] args) {
-        String rutaArchivo = "Caso3/configuracion.txt";
+        String rutaArchivo = "Caso3TIC/Caso3/configuracion.txt";
 
         int numeroClientes = 0;
         int mensajesPorCliente = 0;
